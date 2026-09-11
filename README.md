@@ -1,5 +1,7 @@
 # Building an Expense Tracker App Using Python
 
+![A picture will show here](./expense-image.jpeg "My expense Tracker")
+
 ## Overview
 
 A simple terminal-based Expense tracker App created Python Programming Language.
@@ -13,4 +15,5 @@ To fully utilize the features and capabilities of Expense App, users must have t
 3. Basic understanding of python and OOP
 4. Understanding of Virtual Environment
 
-![A picture will show here]( "San Juan Mountains")
+
+![](./expense-image.jpeg)
